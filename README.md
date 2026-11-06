@@ -11,8 +11,3 @@ A fun Number Guessing Game made in Python!
 
 ## How to Run
 ```bash
-python guessing_game.py
-15  ```
-16
-17  ## Made By
-18  Salman Mahar ❤️
